@@ -16,4 +16,5 @@ Visualization: Network plots, heatmaps, dot plots, and chord diagrams to visuali
 Integration with scRNA-seq: Uses single-cell transcriptomic data and cell-type annotations as input.
 
 
-[niche_plot.pdf](https://github.com/user-attachments/files/25101395/niche_plot.pdf)
+<img width="720" height="432" alt="image" src="https://github.com/user-attachments/assets/c3d0b473-fa20-4b36-b279-0765ee56fb8e" />
+
