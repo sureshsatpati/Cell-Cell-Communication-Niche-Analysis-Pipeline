@@ -14,3 +14,6 @@ Pathway-Level Insights: Aggregation of ligand–receptor pairs into signaling pa
 Visualization: Network plots, heatmaps, dot plots, and chord diagrams to visualize intercellular communication.
 
 Integration with scRNA-seq: Uses single-cell transcriptomic data and cell-type annotations as input.
+
+
+[niche_plot.pdf](https://github.com/user-attachments/files/25101395/niche_plot.pdf)
